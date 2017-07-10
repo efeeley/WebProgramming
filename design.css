@@ -1,0 +1,70 @@
+/*
+Name: Elisabeth Feeley
+Date: Winter 2013
+Description: Design Sheet
+Assistance: N/A
+*/
+
+body {
+font-family: Arial, Helvetica, Sans-serif;
+width: 80%;
+margin: auto;
+min-width: 488px;
+background-color: rgb(137,183,217);
+color: rgb(112,85,81);
+}
+
+#header {
+text-align: center;
+font-size: 18pt;
+border-bottom: solid;
+border-color: rgb(112,85,81);
+background-color: rgb(137,183,217);
+}
+
+#menu {
+border-left: solid;
+border-right: solid;
+border-color: rgb(112,85,81);
+padding-bottom: 15px;
+background-color: rgb(247,231,186);
+}
+
+#menu a {
+padding-left: 5%;
+padding-right: 5%;
+text-decoration: none;
+color: rgb(112,85,81);
+}
+
+#menu a:hover {
+color: rgb(247,231,186);
+background-color: rgb(112,85,81);
+}
+
+#content {
+border-left: solid;
+border-right: solid;
+border-color: rgb(112,85,81);
+background-color: rgb(247,231,186);
+}
+
+#content a {
+color: rgb(112,85,81);
+}
+
+#content p,ul {
+padding-left: 25px;
+padding-right: 25px;
+margin-top: 0px;
+margin-bottom: 0px; 
+}
+
+#footer {
+border-top: solid;
+border-color: rgb(112,85,81);
+}
+
+#clock{
+float: right;
+}

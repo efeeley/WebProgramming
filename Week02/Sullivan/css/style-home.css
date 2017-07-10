@@ -1,0 +1,291 @@
+body { 	margin:0px;
+		background-color:#041819
+}
+
+p { font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#ffffff
+}
+
+#arrows
+{
+    margin-left: 50px; 
+}
+
+#previous
+{
+    margin-right: 5px;
+}
+
+.text { font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#333333
+}
+
+
+a {
+	color:#ffffff;
+	text-decoration:underline
+}
+a:hover {
+	color:#a75d17;
+	text-decoration:underline
+}
+
+ul {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#ffffff
+}
+ol {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#ffffff
+}
+
+#footer ul {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#ffffff;
+
+}
+#footer li {
+	 line-height:15px
+}
+#footer a {
+	color:#ffffff;
+	text-decoration:none
+}
+#footer a:hover {
+	color:#a75d17;
+	text-decoration:none
+}
+
+
+#header-container {
+	height:195px; 
+	background-image:url(http://sullivan.edu/images/wood-bg.jpg)
+}
+	
+#header {
+	width:850px;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+#logo {
+	width:224px; 
+	height:96px; 
+	padding-top:40px; 
+	float:left
+}
+
+#stulogin {
+	width:300px; 
+	height:96px; 
+	padding-top:30px; 
+	float:right;
+	text-align:right; 
+	color:#ffffff
+}
+
+#top-nav {
+	width:850px; 
+	padding-top:130px; 
+	margin-left:auto; 
+	margin-right:auto
+}
+
+#slider {
+	width:850px; 
+	margin-left:auto; 
+	margin-right:auto; 	
+	height:400px; 
+	margin-top:20px;
+	padding-right:80px
+	
+	
+}
+
+#sliders { width: 850px; height: 350px; }
+
+
+#img-vid {
+	width:600px; 
+	float:left;
+	background-color: #105a67; 
+	height:320px; 
+	margin-top:20px
+}
+
+
+#main-content {
+	width:600px; 
+	float:left;
+	
+}
+#container {
+	width:850px; 
+	margin-left:auto;
+	margin-right:auto
+}
+#right-nav {
+	width:240px; 
+	float:right;
+	margin-top:-337px;
+	text-align:right;
+
+
+	
+}
+.right-nav {
+
+	font-size:14px; 
+	border-bottom:1px #ffffff dotted;
+	padding-bottom:5px
+}
+
+.icons-nav {
+
+	font-size:14px; 
+	padding-bottom:5px
+}
+
+
+.right-nav a {
+	color:#ffffff;
+	text-decoration:none
+}
+.right-nav a:hover {
+	color:#a75d17;
+	text-decoration:none
+}
+
+#main-content-story {
+	width:850px; 
+	margin-left:auto; 
+	margin-right:auto; 
+	height:275px;
+
+	
+}
+
+#news {
+	width:300px; 
+	float:left
+
+}
+#bottom-container {
+	background-color: #105a67;
+	text-align:left;
+	height:420px; 
+	border-top:3px #ffffff solid;
+	margin-top:100px
+		
+}
+#footer {
+	width:850px; 
+	margin-left: auto;
+	margin-right:auto; 
+	margin-top:0px; 
+	font-family:Helvetica, Arial, sans-serif; 
+	padding-top:25px; 
+	padding-left:5px; 
+	font-size:12px; 
+	color:#ffffff;
+}
+#story-left {
+	width:300px; 
+	float:left; 
+	padding-top:15px
+}
+#story-right {
+	width:300px; 
+	float:right; 
+	padding-top:15px
+}
+#story-img {
+	float:left; 
+	padding-right:10px
+}
+#icon-img {
+	float:right; 
+	padding-left:15px
+}
+
+#story-img-sub {
+	float:right; 
+	padding-left:10px
+}
+#story-sub {
+	width:240px; 
+	float:left; 
+	padding-top:10px;
+	
+}
+#story-sub a {
+	color:#ffffff;
+	text-decoration:none
+}
+#story-sub a:hover {
+	color:#a75d17;
+	text-decoration:none
+}
+
+#story-content {
+	color:#ffffff; 
+	margin-top:-5px
+}
+#story-content a {
+	color:#ffffff;
+	text-decoration:none
+}
+#story-content a:hover {
+	color:#a75d17;
+	text-decoration:none
+}
+
+#calendar {
+	width:180px; 
+	float:right
+}
+#event {
+	width:345px; 
+	float:right
+}
+#search {
+	float:right; 
+	margin-right:0px;
+	
+}
+.social {
+	padding-top:8px
+}
+.search {
+	margin-top:-25px
+}
+h3 {
+	color:#041819
+}
+h4 {
+	color:#ffffff
+}
+
+h2 {
+	color:#a75d17
+
+}
+.subtitle {
+	font-size:16px;
+	color:#ffffff;
+	font-weight:bold
+}
+.lex-louis-fortm li {
+	list-style-type:disc
+}
+#date
+{
+    font-style:italic; 
+	color:#808285; 
+	font-size:11px;
+}

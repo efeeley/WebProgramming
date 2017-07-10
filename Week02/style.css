@@ -1,0 +1,30 @@
+/*
+Name: Elisabeth
+Date: 16/1/2013
+Description: Css for assignment 3.5
+Assistance: N/A
+*/
+
+h1 {
+text-align: center;
+}
+
+p.p1 {
+margin-left: 20px;
+margin-right: 20px;
+background-color: pink;
+color: blue;
+}
+
+p.p2 {
+margin-left: 30px;
+margin-right: 30px;
+background-color: black;
+color: yellow;
+}
+
+p.p3 {
+text-indent: 1in;
+background-color: green;
+color: white;
+}

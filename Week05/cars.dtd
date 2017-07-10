@@ -1,0 +1,24 @@
+<!--
+Name: Elisabeth Feeley
+Date: 4/2/2013
+Description: External DTD for Exercise 7.1
+Assisstance:
+	The basics: http://w3schools.com/dtd/dtd_intro.asp
+-->
+<!ELEMENT car_site (car+)>
+	<!ELEMENT car (make,model,year,color,engine,number_of_doors,transmission_type,accessories)>
+	<!ELEMENT make (#PCDATA)>
+	<!ELEMENT model (#PCDATA)>
+	<!ELEMENT year (#PCDATA)>
+	<!ELEMENT color (#PCDATA)>
+	<!ELEMENT engine (number_of_cylinders,fuel_system)>
+		<!ATTLIST engine number_of_cylinders CDATA #IMPLIED>
+		<!ATTLIST engine fuel_system ENTITIES (Carburated|Fuel Injected)>
+	<!ELEMENT number_of_doors (#PCDATA)>
+	<!ELEMENT transmission_type (#PCDATA)>
+	<!ELEMENT accessories (radio,air_conditioning,power_windows,power_steering,power_brakes)>
+		<!ATTLIST accessories radio ENTITIES (Yes|No)>
+		<!ATTLIST accessories air_conditioning ENTITIES (Yes|No)>
+		<!ATTLIST accessories power_windows ENTITIES (Yes|No)>
+		<!ATTLIST accessories power_steering ENTITIES (Yes|No)>
+		<!ATTLIST accessories power_brakes ENTITIES (Yes|No)>

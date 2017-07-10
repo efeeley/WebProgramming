@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="carfinal.xsl" ?>
+<!DOCTYPE note SYSTEM "cars.dtd">
+
+<!--
+Name: Elisabeth Feeley
+Date: 4/2/2013
+Description: XML document related to cars.dtd for exercise 7.2
+Assistance:
+-->
+
+<car_site>
+	<car>
+		<make>Ford</make>
+		<model>Fusion</model>
+		<year>2006</year>
+		<color>Black</color>
+		<engine>
+			<number_of_cylinders>6 Cylinders</number_of_cylinders>
+			<fuel_system>Fuel Injected</fuel_system>
+		</engine>
+		<number_of_doors>4</number_of_doors>
+		<transmission_type>Automatic</transmission_type>
+		<accessories>
+			<radio>Yes</radio>
+			<air_conditioning>Yes</air_conditioning>
+			<power_windows>Yes</power_windows>
+			<power_steering>Yes</power_steering>
+			<power_brakes>Yes</power_brakes>
+		</accessories>
+	</car>
+
+	<car>
+		<make>Chevrolet</make>
+		<model>Aveo</model>
+		<year>2004</year>
+		<color>White</color>
+		<engine>
+			<number_of_cylinders>4 Cylinders</number_of_cylinders>
+			<fuel_system>Fuel Injected</fuel_system>
+		</engine>
+		<number_of_doors>4</number_of_doors>
+		<transmission_type>Automatic</transmission_type>
+		<accessories>
+			<radio>Yes</radio>
+			<air_conditioning>Yes</air_conditioning>
+			<power_windows>No</power_windows>
+			<power_steering>Yes</power_steering>
+			<power_brakes>Yes</power_brakes>
+		</accessories>
+	</car>
+
+	<car>
+		<make>Ford</make>
+		<model>Mustang</model>
+		<year>2012</year>
+		<color>Red</color>
+		<engine>
+			<number_of_cylinders>6 Cylinders</number_of_cylinders>
+			<fuel_system>Fuel Injected</fuel_system>
+		</engine>
+		<number_of_doors>2</number_of_doors>
+		<transmission_type>Manual</transmission_type>
+		<accessories>
+			<radio>Yes</radio>
+			<air_conditioning>Yes</air_conditioning>
+			<power_windows>Yes</power_windows>
+			<power_steering>Yes</power_steering>
+			<power_brakes>Yes</power_brakes>
+		</accessories>
+	</car>
+</car_site>

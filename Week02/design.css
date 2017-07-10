@@ -1,0 +1,34 @@
+/*
+Name: Elisabeth Feeley
+Date: 17/1/2013
+Description: Design Sheet for exercise 3.6,3.7
+Assistance: http://www.w3schools.com/cssref/pr_list-style-type.asp: for list style types
+*/
+
+#compact-list {
+background-color: pink;
+}
+
+#midsize-list {
+background-color: blue;
+}
+
+#sport-list {
+background-color: red;
+}
+
+#title {
+text-align: center;
+}
+
+ol {
+list-style-type: upper-roman;
+}
+
+ol ol {
+list-style-type: upper-alpha;
+}
+
+ol ol ol {
+list-style-type: decimal;
+}
